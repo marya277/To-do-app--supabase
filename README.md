@@ -4,8 +4,8 @@ CRUD de tareas con  supabase
 
 **Preview**
 
-<img src="./src/assets/todo1.png" alt="desktop" width="300px" height="300px">
-<img src="./src/assets/todo2.png" alt="desktop" width="300px" height="300px">
+<img src="./src/assets/todo1.png" alt="desktop" width="500px" height="500px">
+<img src="./src/assets/todo2.png" alt="desktop" width="500px" height="500px">
 
 ##### INSTALACION
 Ejecute `npm install` para descargar las dependencias de la aplicación.
