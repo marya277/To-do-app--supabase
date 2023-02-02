@@ -4,7 +4,7 @@ CRUD de tareas con  supabase
 
 **Preview**
 
-<img src="./src/assets/todo1.png" alt="desktop" width="500px" height="500px">
+<img src="./src/assets/todo1.png" alt="desktop" width="800px" height="500px">
 <img src="./src/assets/todo2.png" alt="desktop" width="800px" height="500px">
 
 ##### INSTALACION
