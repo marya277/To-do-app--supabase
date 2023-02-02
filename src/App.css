@@ -1,0 +1,79 @@
+
+
+.wrapper{
+  width: 80%;
+  height: 80%;
+  position: relative;
+  box-shadow: 0 1em 3em 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5%;
+}
+.form-widget{
+  width: 450px;
+  height: auto;
+  background: white;
+  justify-content:center;
+  align-items: center;
+	left: 50px;
+  bottom: 20px;
+  border-radius: 10px;
+	margin-left: auto; margin-right: auto;
+  background: -webkit-linear-gradient(bottom, rgba(137, 156, 199, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+	background: linear-gradient(to top, rgba(91, 204, 198, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+}
+
+
+
+input {
+  width: 360px;
+  height: 44px;
+  margin: .5em;
+  padding: 0 1em;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid rgb(44, 15, 176);
+  font-size: 1em;
+  margin-bottom: 1em;
+  
+}
+
+.magic{
+  width: 360px;
+  height: 64px;
+ 
+}
+.bg-login{
+  width: 100%;
+  background-image: url("./assets/img_tasksBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 60%;
+  display: flex;
+  justify-content: center;
+}
+.header-nav{
+  height: 100px;
+  background: -webkit-linear-gradient(bottom, rgba(137, 156, 199, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+	background: linear-gradient(to top, rgba(91, 204, 198, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+}
+.form-task{
+  width: auto;
+  height: auto;
+  background: white;
+  justify-content:center;
+  align-items: center;
+	left: 50px;
+  bottom: 10px;
+  border-radius: 10px;
+	margin-left: auto; margin-right: auto;
+  background: -webkit-linear-gradient(bottom, rgba(137, 156, 199, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+	background: linear-gradient(to top, rgba(91, 204, 198, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+}
+.list-task{
+  width: auto;
+  height: 64px;
+  background: -webkit-linear-gradient(bottom, rgba(137, 156, 199, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+	background: linear-gradient(to top, rgba(91, 204, 198, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%);
+}
+.img-brand{
+  height: 100px;
+  width: 100px;
+}
